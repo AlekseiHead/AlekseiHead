@@ -59,13 +59,3 @@ My name is Alexei, I am a Frontend Developer <img src="https://media.giphy.com/m
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlekseiHead&theme=dark&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseiHead&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**AlekseiHead/AlekseiHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- :telescope: I'm currently working on a project for healthcare systems.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
--->

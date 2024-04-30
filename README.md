@@ -24,9 +24,11 @@
 My name is Alexei, I am a Frontend Developer <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW55aHo3cmNhOTdkdG84ZmpqaHg0Y200dDZhd3d3bjdnZWJhazYzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30"> from Saint-Petersburg.
 - :space_invader: I develop modern interfaces and create cool web applications and websites.
 
-- :books: I am a PhD student at ITMO University, Faculty of Information Technologies.
+- :telescope: I'm currently working on a project for healthcare systems.
 
-- :zap: In my free time, I practice to improve my hard skills, attend specialized conferences and participate in events!
+- :books: I'm a PhD student at ITMO University, Faculty of Information Technologies.
+
+- :zap: In my free time, I practice to enhance my hard skills, attend specialized conferences, and take part in various events!
 
 - :envelope: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AlekseiHead-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/aleksei_sci)
 
@@ -62,12 +64,8 @@ My name is Alexei, I am a Frontend Developer <img src="https://media.giphy.com/m
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- :telescope: I'm currently working on a project for healthcare systems.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlza3Y2dWg1aW05NzA0NjJqMGdvYThrcjFrMTB0cnA1cnFhOXhpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
   <div id="badges">
@@ -8,11 +6,11 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=AlekseiHead&style=flat-square&color=blue" alt=""/>
-</div>
-<h1>
-  Hi there
+  <h1>
+    Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
 <!--
 **AlekseiHead/AlekseiHead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
